@@ -1,5 +1,4 @@
 # Label_ML
-<<<<<<< HEAD
 
 # Au programme 🤖
 
