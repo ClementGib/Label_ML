@@ -1,4 +1,5 @@
 # Label_ML
+<<<<<<< HEAD
 
 # Au programme 🤖
 
@@ -49,3 +50,5 @@ Créer un repo github et faire a minima deux pushs par jour (matin et aprem) afi
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE0MzMzMzk3MDZdfQ==
 -->
+=======
+>>>>>>> 343c528e00aebc33e0c62e8ce03fcda4bbab3294
